@@ -34,6 +34,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 You can learn more of python by browsing here on [this website](https://www.python.org/about/gettingstarted/)
 
-## Credit to [hrdtbs] 👏
+## Credit to hrdtbs 👏
 
 This solution for combining eel and react was inspired by [hrdtbs](https://github.com/hrdtbs) from [this project to be precise](https://github.com/hrdtbs/template-create-react-app-eel)
